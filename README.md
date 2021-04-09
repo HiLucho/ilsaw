@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilsaw also known as Luis Avila
 - 👀 I’m interested in Java, Golang, Node, C#, .NET, SQL Server, Oracle
-- 💞️ I’m looking to collaborate on @MercadoLibre
+- 💞️ I’m collaborating on @MercadoLibre
 - 📫 How to reach me -- theilsaw@gmail.com
 
 <!---
